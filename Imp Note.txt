@@ -1,1 +1,1 @@
-This is Flask Mysql Project with CRUD operations.
+This is Flask Mysql Project with CRUD operations
